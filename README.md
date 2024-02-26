@@ -6,6 +6,7 @@
 <!--![GIF](https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif) -->
 <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="360">
 
+<br>
 
 ## About
 ### ✨ A Tech enthusiast!!
