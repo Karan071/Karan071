@@ -3,6 +3,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
 
+<br>
 <!--![GIF](https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif) -->
 <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="360">
 
