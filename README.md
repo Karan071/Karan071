@@ -1,5 +1,5 @@
 
-# Hello I'm [Karan](https://github.com/Karan071) 🤙
+# Hello I'm [Karan Chourasia](https://github.com/Karan071) 🎇
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
 
