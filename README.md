@@ -7,13 +7,12 @@
 <!--<img src="(https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250">-->
 <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250"> 
 
-<br>
+
 ## About
 ### ✨ A Tech enthusiast!!
 ### 🎲 Fun fact : 
-### Are you the strongest because you're Satoru Gojo, <br/> or are you Satoru Gojo because you're the strongest?
+### Are you the strongest because you're Satoru Gojo,  or are you Satoru Gojo because you're the strongest?
 
-<br>
 
 ## 🚀 Connect with me
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Karan071)
