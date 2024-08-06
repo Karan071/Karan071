@@ -3,17 +3,15 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
 
-<br>
-<!--![GIF](https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif) -->
-<img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="360">
+
+<!--<img src="(https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250">-->
+<img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250"> 
 
 <br>
-
 ## About
 ### ✨ A Tech enthusiast!!
 ### 🎲 Fun fact : 
-### Are you the strongest because you're Satoru Gojo, 
-### or are you Satoru Gojo because you're the strongest?
+### Are you the strongest because you're Satoru Gojo, <br/> or are you Satoru Gojo because you're the strongest?
 
 <br>
 
@@ -22,19 +20,10 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/Karan-Chourasia/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/karennnspams/)
 
-<!--
-## 👨‍💻Coding Profile
 
-<a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F1.svg?alt=media&token=9c2b3538-0e15-4486-bcfc-9fed8f6a5d1f" alt="hackerrank" height="45" width="45" /></a>
-<a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F2.svg?alt=media&token=2c41ad25-be30-4bda-b0aa-7e796f6b1633" alt="hackerearth" height="45" width="45" /></a>
-<a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F3.svg?alt=media&token=fd41549b-62c2-4254-993c-c79a07e0bc05" alt="codechef" height="45" width="45" /></a>
-<a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F4.svg?alt=media&token=314ac6c1-95f4-403d-a324-091310e8f54c" alt="codeforces" height="45" width="45" /></a>
-<a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F5.svg?alt=media&token=dcf0a6d1-d72b-4716-b119-5db5e169480c" alt="gfg" height="45" width="45" /></a>
-<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="leetcode" height="45" width="45" /></a>
--->
 
 ## 🛠️Skills
-### I Code in
+### Programming Languages
 
 [![I Code in](https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,dart)](https://github.com/Karan071)
 
