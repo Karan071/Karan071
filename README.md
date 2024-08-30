@@ -15,9 +15,11 @@
 
 
 ## 🚀 Connect with me
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/Karan071)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/Karan-Chourasia/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/karennnspams/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/1234556666)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karan071)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Karan-Chourasia/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karennnspams/)
+
 
 
 
