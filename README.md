@@ -26,7 +26,7 @@
 ## 🛠️Skills
 ### Programming Languages
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,dart)](https://github.com/Karan071)
+[![I Code in](https://skillicons.dev/icons?i=cpp,java,kotlin,js,dart)](https://github.com/Karan071)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux)](https://github.com/Karan071)
