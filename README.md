@@ -29,10 +29,10 @@
 [![I Code in](https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,dart)](https://github.com/Karan071)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux)](https://github.com/Karan071)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux)](https://github.com/Karan071)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase)](https://github.com/Karan071)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,graphql)](https://github.com/Karan071)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,atom)](https://github.com/Karan071)
