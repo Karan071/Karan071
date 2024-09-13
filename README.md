@@ -29,7 +29,7 @@
 [![I Code in](https://skillicons.dev/icons?i=cpp,java,kotlin,js,dart)](https://github.com/Karan071)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,recoil)](https://github.com/Karan071)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,recoil,typescript)](https://github.com/Karan071)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,graphql)](https://github.com/Karan071)
