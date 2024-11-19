@@ -1,5 +1,5 @@
 
-# Hello I'm [Karan Chourasia](https://github.com/Karan071) 🎇
+# Hey I'm [Karan Chourasia](https://github.com/Karan071) 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
 
@@ -7,14 +7,16 @@
 <!--<img src="(https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250">-->
 <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250"> 
 
-
-## About
-### ✨ A Tech enthusiast!!
+## Tech enthusiast!!
 ### 🎲 Fun fact : 
-### Are you the strongest because you're Satoru Gojo,  or are you Satoru Gojo because you're the strongest?
+<!--Are you the strongest because you're Satoru Gojo,  or are you Satoru Gojo because you're the strongest?-->
+
+### “Nothing’s perfect, the world’s not perfect, but it’s there for us, trying its best. That’s what makes it so damn beautiful.”
+### —Roy Mustang, Fullmetal Alchemist
 
 
-## 🚀 Connect with me
+
+# 🚀 Connect with me
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919582292422)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karan071)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Karan-Chourasia/)
@@ -23,16 +25,16 @@
 
 
 
-## 🛠️Skills
+# 🛠️Skills
 ### Programming Languages
 
-[![I Code in](https://skillicons.dev/icons?i=cpp,java,kotlin,js,dart)](https://github.com/Karan071)
+[![I Code in](https://skillicons.dev/icons?i=cpp,java,kotlin,js,dart,python)](https://github.com/Karan071)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,recoil,typescript)](https://github.com/Karan071)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript)](https://github.com/Karan071)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,graphql)](https://github.com/Karan071)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,fastapi)](https://github.com/Karan071)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,atom)](https://github.com/Karan071)
