@@ -1,19 +1,23 @@
 
 # Hey I'm [Karan Chourasia](https://github.com/Karan071) 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
+<!--## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Developer;)](https://git.io/typing-svg)-->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;I'm+Software+Developer)](https://git.io/typing-svg)
+
 
 
 <!--<img src="(https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250">-->
 <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250"> 
 
-## Tech enthusiast!!
+## Tech Buff :)
 ### 🎲 Fun fact : 
 <!--Are you the strongest because you're Satoru Gojo,  or are you Satoru Gojo because you're the strongest?-->
 
-### “Nothing’s perfect, the world’s not perfect, but it’s there for us, trying its best. That’s what makes it so damn beautiful.”
-### —Roy Mustang, Fullmetal Alchemist
+#### “Nothing’s perfect, the world’s not perfect, but it’s there for us, trying its best. That’s what makes it so damn beautiful.”
+##### —Roy Mustang, Fullmetal Alchemist
 
+<BR>
 
 
 # 🚀 Connect with me
