@@ -15,7 +15,7 @@
 <!--Are you the strongest because you're Satoru Gojo,  or are you Satoru Gojo because you're the strongest?-->
 
 #### “Nothing’s perfect, the world’s not perfect, but it’s there for us, trying its best. That’s what makes it so damn beautiful.”
-##### —Roy Mustang, Fullmetal Alchemist
+##### - Roy Mustang, Fullmetal Alchemist
 
 <BR>
 
