@@ -32,16 +32,16 @@
 # 🛠️Skills
 ### Programming Languages
 
-[![I Code in](https://skillicons.dev/icons?i=cpp,java,kotlin,js,dart,python)](https://github.com/Karan071)
+[![I Code in](https://skillicons.dev/icons?i=cpp,kotlin,js,dart,python)](https://github.com/Karan071)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript)](https://github.com/Karan071)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,fastapi)](https://github.com/Karan071)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,fastapi,prisma)](https://github.com/Karan071)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,atom)](https://github.com/Karan071)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,atom,vim)](https://github.com/Karan071)
 
 ![](https://i.imgur.com/waxVImv.png)
 
