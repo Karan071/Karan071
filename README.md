@@ -1,8 +1,6 @@
 
 # Its [Karan Chourasia](https://github.com/Karan071) 
 
-<!--## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Developer;)](https://git.io/typing-svg)-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;I'm+Software+Developer)](https://git.io/typing-svg)
 
 
@@ -18,6 +16,7 @@
 ##### - Roy Mustang, Fullmetal Alchemist
 
 <BR>
+
 
 
 # 🚀 Connect with me
@@ -41,18 +40,11 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,fastapi,prisma)](https://github.com/Karan071)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,atom,vim)](https://github.com/Karan071)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,atom,vim,docker)](https://github.com/Karan071)
 
 ![](https://i.imgur.com/waxVImv.png)
 
-
-<!--
-<br/>
-## 📊Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karan071&langs_count=10&show_icons=true&locale=en&theme=radical" alt="Karan071" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Karan071&show_icons=true&locale=en&theme=radical" alt="Karan071" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karan071&theme=radical" alt="Karan071" /></p>
--->
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 
 <h2 align="center">
