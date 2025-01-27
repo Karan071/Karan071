@@ -1,6 +1,7 @@
-# Greetings! It's [Karan Chourasia](https://karan-chourasia.vercel.app/)  
+# Greetings! It's [Karan Chourasia]("")
+##### Portfolio site [🚀](https://karan-chourasia.vercel.app/)  
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;I'm+Software+Developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Dev;I'm+Software+Dev)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250">
 
