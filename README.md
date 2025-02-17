@@ -9,8 +9,8 @@
 
 ## 🖥️ Tech Buff :)
 ### 🎲 **Fun Fact**:
-> “Nothing’s perfect, the world’s not perfect, but it’s there for us, trying its best. That’s what makes it so damn beautiful.”  
-> — Roy Mustang, *Fullmetal Alchemist*
+> “The betrayal you can see is trivial. What is truly fearsome, is the betrayal you don’t see...” - 
+> — Aizen , *Bleach*
 
 ---
 
