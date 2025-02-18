@@ -9,7 +9,7 @@
 
 ## 🖥️ Tech Buff :)
 ### 🎲 **Fun Fact**:
-> “The betrayal you can see is trivial. What is truly fearsome, is the betrayal you don’t see...” - 
+> “The betrayal you can see is trivial. What is truly fearsome, is the betrayal you don’t see...”  
 > — Aizen , *Bleach*
 
 ---
