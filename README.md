@@ -1,68 +1,79 @@
-# Greetings! It's [Karan Chourasia]("")
-##### Portfolio site [🚀](karan-portfolio-ebon.vercel.app/)  
+<div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Developer;I'm+Software+Engineer)](https://git.io/typing-svg)
+# Karan Chourasia
 
-<img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="480" height="250">
+**Full Stack Developer | Software Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Karan-Chourasia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karan-portfolio-ebon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karan071)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919582292422)
+
+![Views](https://komarev.com/ghpvc/?username=Karan071&color=6c5eff&style=flat-square&label=Views)
+
+</div>
+
+<br/>
+
+<img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="400" height="220">
+
+### Tech Buff :)
+
+**Fun Fact:**
+
+> "The betrayal you can see is trivial. What is truly fearsome, is the betrayal you don't see..."  
+> — Aizen, _Bleach_
+
+<br/>
+
+### Focus
+
+- Building performant, user-centric web applications
+- Crafting clean, maintainable code with solid architecture
+- Optimizing frontend experiences for speed and accessibility
+
+<br clear="right"/>
+
+---
+
+### Tech Stack
+
+|                                   Languages                                    |                                    Frontend                                    |                                       Backend                                        |
+| :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,kotlin&theme=dark"/> | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark"/> |
+
+|                                      Databases                                      |                                    Tools & DevOps                                     |
+| :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark"/> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/> |
 
 ---
 
-## 🖥️ Tech Buff :)
-### 🎲 **Fun Fact**:
-> “The betrayal you can see is trivial. What is truly fearsome, is the betrayal you don’t see...”  
-> — Aizen , *Bleach*
+### Metrics
 
----
-
-## 🚀 Connect with me
 <p align="center">
-  <a href="https://wa.me/919582292422">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://github.com/Karan071">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/Karan-Chourasia/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/karennnspams/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Karan071&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Karan071&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=6e5494&ring_color=6e5494" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Karan071&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" alt="GitHub Stats"/>
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Karan071&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Karan071&hide_border=true&background=ffffff&stroke=ffffff&ring=6e5494&fire=6e5494&currStreakLabel=24292f&sideLabels=57606a&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Karan071&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</picture>
 </p>
 
----
-
-## 🛠️ Skills  
-
-### 💻 Programming Languages 
 <p align="center">
-  <a href="https://github.com/Karan071">
-    <img src="https://skillicons.dev/icons?i=cpp,kotlin,js,dart,python" alt="Programming Languages">
-  </a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan071&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&langs_count=8&card_width=445" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan071&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a&langs_count=8&card_width=445" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan071&layout=compact&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&langs_count=8&card_width=445" alt="Top Languages"/>
+</picture>
 </p>
 
-### 🌐 Frontend Development
 <p align="center">
-  <a href="https://github.com/Karan071">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript" alt="Frontend">
-  </a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karan071&bg_color=000000&color=c9d1d9&line=6e5494&point=c9d1d9&area=true&area_color=6e5494&hide_border=true" alt="Activity Graph"/>
 </p>
-
-### 🖧 Backend Development
-<p align="center">
-  <a href="https://github.com/Karan071">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,fastapi,prisma,postgres" alt="Backend">
-  </a>
-</p>
-
-### 🔧 Tools & Platforms
-<p align="center">
-  <a href="https://github.com/Karan071">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,atom,vim,docker" alt="Tools">
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
@@ -70,13 +81,4 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31" />
-  <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31" />
-  <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31" />
-  <img src="https://komarev.com/ghpvc/?username=Karan071&&style=round-square" alt="Profile Views" />
-  <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31" />
-  <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31" />
-  <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31" />
-</h2>
 
