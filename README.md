@@ -44,17 +44,11 @@
 
 ---
 
-### Stats
+<!--### Stats -->
 
-<p align="center">
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Karan071&show_icons=true&hide_border=true&bg_color=000000&title_color=c9d1d9&text_color=8b949e&icon_color=6e5494&ring_color=6e5494" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-streak-stats-teal-three.vercel.app?user=Karan071&hide_border=true&background=000000&stroke=000000&ring=6e5494&fire=6e5494&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
+<!-- <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karan071&bg_color=000000&color=c9d1d9&line=6e5494&point=c9d1d9&area=true&area_color=6e5494&hide_border=true" alt="Activity Graph"/>
-</p>
+</p> -->
 
 <p align="center">
 <img width=100% src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
