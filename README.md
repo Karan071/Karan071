@@ -1,6 +1,5 @@
 <div align="center">
-
-<h1 align="center">こんにちは, I'm Karan ✦</h1>
+<h1 align= "center" > こんにちは, I'm Karan Chourasia ✦</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F5A524&center=true&vCenter=true&width=520&lines=Software+Engineer+%E2%80%A2+Bangalore;Crafting+UIs+for+AI+agents;Coding+through+the+night+%E2%98%BE" alt="typing" />
@@ -8,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Karan-Chourasia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karan-portfolio-ebon.vercel.app/)
-
 
 <br/>
 
