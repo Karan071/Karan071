@@ -1,18 +1,18 @@
 <div align="center">
 
-# Karan Chourasia
+<h1 align="center">こんにちは, I'm Karan ✦</h1>
 
-**Full Stack Developer | Software Engineer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F5A524&center=true&vCenter=true&width=520&lines=Software+Engineer+%E2%80%A2+Bangalore;Crafting+UIs+for+AI+agents;Coding+through+the+night+%E2%98%BE" alt="typing" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Karan-Chourasia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karan-portfolio-ebon.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karan071)
 
-![Views](https://komarev.com/ghpvc/?username=Karan071&color=6c5eff&style=flat-square&label=Views)
 
 <br/>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlvM3YxOGk5d2N5Y2ZhbWxuY3o1bjN5YXQycXpldm1zYjF0M2J2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YuQ2Ahel6CyntDr2cF/giphy.gif" width=100%/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlvM3YxOGk5d2N5Y2ZhbWxuY3o1bjN5YXQycXpldm1zYjF0M2J2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YuQ2Ahel6CyntDr2cF/giphy.gif" width=1000%/>
 
 <br/>
 
@@ -33,13 +33,29 @@
 
 ### Tech Stack
 
-|                                   Languages                                    |                                    Frontend                                    |                                       Backend                                        |
-| :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark"/> | <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux&theme=dark"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark"/> |
+<table align="center">
+  <tr>
+    <th align="center">Languages</th>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark" alt="Languages" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,next,tailwind,redux&theme=dark" alt="Frontend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark" alt="Backend" /></td>
+  </tr>
+</table>
 
-|                                      Databases                                      |                                    Tools & DevOps                                     |
-| :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis&theme=dark"/> | <img src="https://skillicons.dev/icons?i=aws,git,github,docker,linux,vscode&theme=dark"/> |
+<table align="center">
+  <tr>
+    <th align="center">Databases</th>
+    <th align="center">Tools &amp; DevOps</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis&theme=dark" alt="Databases" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,git,github,docker,linux,vscode&theme=dark" alt="Tools and DevOps" /></td>
+  </tr>
+</table>
 
 ---
 
